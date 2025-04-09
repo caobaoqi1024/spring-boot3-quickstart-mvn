@@ -1,0 +1,2 @@
+### say hello
+GET http://localhost:8080/api/users/say-hello?username={{$random.name.username}}
