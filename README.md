@@ -1,14 +1,12 @@
 # spring-boot3-quickstart-mvn
 
->[!NOTE]
+> [!NOTE]
 > spring-boot3 案例 (maven)
-
 
 # version
 
 - maven: 3.9.9
 - zulu jdk 21
-
 
 # ref
 
